@@ -1,0 +1,10 @@
+.div-container {
+  background: yellow;
+  padding: 5px;
+  border: 1px solid #000000;
+  margin: 5px;
+  width: 200px;
+  box-sizing: border-box;
+  display: inline-block;
+  font-family: 'Montserrat', sans-serif;
+}
